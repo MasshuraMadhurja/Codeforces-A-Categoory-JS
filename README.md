@@ -1,2 +1,2 @@
 # Codeforces-A-Category-JS
-Here I added some solution of A category programs given in the problemsets of Codeforces. I solved the problems using Javascript.
+Here I've added some solution of A category problems given in Codeforces. I solved the problems using Javascript.
